@@ -2,6 +2,9 @@
 
 from tkinter import *
 
+class Multi_ChoiceGUI:
+    def __init__(self, parent):
+
 #main routine
 if __name__ == "__main__":        
     root = Tk()
