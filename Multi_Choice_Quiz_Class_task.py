@@ -8,3 +8,5 @@ class Multi_ChoiceGUI:
 #main routine
 if __name__ == "__main__":        
     root = Tk()
+    Multi_Choice = Multi_ChoiceGUI(root)
+    root.mainloop()
